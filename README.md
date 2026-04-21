@@ -36,7 +36,7 @@ A aplicação foi estruturada seguindo princípios fundamentais de engenharia de
 🤝 Créditos
 Desenvolvido por Carlos Roberto Ribeiro Santos Junior.
 Projeto integrante da formação Oracle Next Education.
-
+´´´
   
 
    <img width="1920" height="1080" alt="gut1" src="https://github.com/user-attachments/assets/2b4412cc-d4e5-40dc-a98a-54d9610df85d" />
