@@ -33,19 +33,6 @@ A aplicação foi estruturada seguindo princípios fundamentais de engenharia de
 3.  **Busca por ID:** Consulta detalhada de um livro específico no repositório local.
 4.  **Interface Web:** Front-end responsivo construído com Bootstrap para interação direta com a API.
 
-## ⚙️ Como Executar
-
-### Pré-requisitos
-- Java 21 instalado.
-- Maven 3.x.
-
-
-
-
-### Instalação
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/api-gutendex.git](https://github.com/seu-usuario/api-gutendex.git)
 
   ``
 
