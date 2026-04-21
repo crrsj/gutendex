@@ -33,6 +33,9 @@ A aplicação foi estruturada seguindo princípios fundamentais de engenharia de
 3.  **Busca por ID:** Consulta detalhada de um livro específico no repositório local.
 4.  **Interface Web:** Front-end responsivo construído com Bootstrap para interação direta com a API.
 
+🤝 Créditos
+Desenvolvido por Carlos Roberto Ribeiro Santos Junior.
+Projeto integrante da formação Oracle Next Education.
 
   ``
 
