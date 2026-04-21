@@ -50,5 +50,5 @@ Projeto integrante da formação Oracle Next Education.
    <img width="1920" height="1080" alt="gut5" src="https://github.com/user-attachments/assets/427c8a6b-93cf-47dc-b363-2abb333eecd3" />
 
 
-
+```
 
