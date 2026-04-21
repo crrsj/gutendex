@@ -1,3 +1,4 @@
+```
 # 📚 Consumindo API Gutendex com Java 21 & Spring Boot
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
