@@ -36,7 +36,7 @@ A aplicação foi estruturada seguindo princípios fundamentais de engenharia de
 
 🤝 Créditos
 Desenvolvido por Carlos Roberto Ribeiro Santos Junior.
-Projeto integrante da formação Oracle Next Education.```
+Projeto integrante da formação Oracle Next Education.`````
 
   
 
