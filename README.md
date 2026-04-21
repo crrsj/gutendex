@@ -38,16 +38,12 @@ A aplicação foi estruturada seguindo princípios fundamentais de engenharia de
 Desenvolvido por Carlos Roberto Ribeiro Santos Junior.
 Projeto integrante da formação Oracle Next Education.
 
-  ``
+  
 
-   <img width="1920" height="1080" alt="gut1" src="https://github.com/user-attachments/assets/2b4412cc-d4e5-40dc-a98a-54d9610df85d" />
-
+  <img width="1920" height="1080" alt="gut1" src="https://github.com/user-attachments/assets/2b4412cc-d4e5-40dc-a98a-54d9610df85d" />
    <img width="1920" height="1080" alt="gut2" src="https://github.com/user-attachments/assets/c1f2483a-b983-4bed-8df0-dbec1a4ebda0" />
-
    <img width="1920" height="1080" alt="gut3" src="https://github.com/user-attachments/assets/4705e2a4-2769-4710-86be-5c645a0799f1" />
-
    <img width="960" height="540" alt="gut4" src="https://github.com/user-attachments/assets/84b1225e-4ab6-41dd-9696-51dcfeabef01" />
-
    <img width="1920" height="1080" alt="gut5" src="https://github.com/user-attachments/assets/427c8a6b-93cf-47dc-b363-2abb333eecd3" />
 
 
